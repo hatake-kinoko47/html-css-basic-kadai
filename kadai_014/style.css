@@ -1,0 +1,28 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 20px;
+    text-align: center;
+  }
+
+.basic{
+    font-weight: bold;
+}
+
+.text-bold{
+   color: skyblue; 
+}
+
+.text-hold{
+    color: rgb(255,192,203)
+}
+  
+.google-fonts {
+  letter-spacing: 1.2em;
+  text-shadow: 1px px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+  font-size: 40px;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
