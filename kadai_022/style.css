@@ -1,0 +1,16 @@
+header {
+    margin-bottom: 20px;
+    background-color: rgb(244, 79, 79);
+    text-align: center;
+}
+
+.flexbox-container{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.content{
+    border: solid 3px rgb(238, 204, 204);
+    
+}
